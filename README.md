@@ -49,7 +49,7 @@ Basit ve kullanışlı not alma uygulaması geliştirdim.
 
 ## 📫 İletişim
 
-📧 Email: **Topcuoğlunecdet50@gmail.com**
+📧 Email: **Topcuoglunecdet50@gmail.com**
 
 ---
 
